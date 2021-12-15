@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -Werror -g
+CFLAGS = -Wall -Wextra -g
 SRCS = philo.c		\
 		utils.c		\
 		checks.c		\
